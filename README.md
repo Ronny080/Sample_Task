@@ -1,4 +1,4 @@
-Java Sample Projects
+## Java Sample Projects
 
 ## Projects
 
